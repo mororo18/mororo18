@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**mororo18/mororo18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 Computer Engineering student focused on combinatorial optimization, low-level programming, and software performance.
+- 💻 Skilled in C, C++, Rust, and knowledgeable about x64 Assembly.
+- 🌱 Currently expanding my expertise in graphics programming through the development of a [CPU-based real-time renderer in Rust](https://github.com/mororo18/draw).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- 🧩 Combinatorial Optimization
+- 🖥️ Graphics Programming
+- ⚙️ Operating Systems
+- 🎹 Analog Synthesizers
+
+## Contact
+
+- 📧 **Email**: [victormororo@gmail.com](mailto:victormororo@gmail.com)
+- 🔗 **LinkedIn**: [Victor Mororó](https://www.linkedin.com/in/victor-mororo)
+
